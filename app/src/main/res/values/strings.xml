@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">L06_MyLocalBanks</string>
+    <string name="dbs">DBS</string>
+    <string name="ocbc">OCBC</string>
+    <string name="uob">UOB</string>
+    <string name="website" />
+    <string name="contact" />
+</resources>
